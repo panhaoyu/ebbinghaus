@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ebbinghaus",
-    version="0.0.1",
+    version="0.2.0",
     author="wolfpan",
     author_email="haoyupan@aliyun.com",
     description="Ebbinghaus remembering curve.",
